@@ -4,7 +4,7 @@
 **Curso:** Superior de Tecnologia em Redes de Computadores  
 **Disciplina:** Comutação de Redes Locais (TCN.0639)  
 **Docente:** Prof. Jhordano Malacarne Bravim  
-**Autor(a):** Mariane Gonçalves Dantas 
+**Autor(a):** Leoneide Andrade Viana Queiroz 
 **Ferramenta:** Cisco Packet Tracer
 
 ## 1. Objetivo da Atividade
